@@ -93,7 +93,7 @@ const HeroSection = () => {
           onLoadedData={handleVideoLoaded}
           poster="/images/hero-fallback.jpg" // Optional: fallback image while video loads
         >
-          <source src="/vid0.mp4" type="video/mp4" />
+          <source src="/vid2.mp4" type="video/mp4" />
           {/* Optional: Add WebM format for better performance */}
           {/* <source src="/vid0.webm" type="video/webm" /> */}
           Your browser does not support the video tag.
