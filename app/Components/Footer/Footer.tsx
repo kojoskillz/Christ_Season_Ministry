@@ -16,19 +16,19 @@ const Footer = () => {
         {/* Social Media Links as Text */}
         <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 lg:space-x-8 mb-6">
           <a 
-            href="#" 
+            href="https://www.facebook.com/share/1DCDna7asG/" 
             className="text-white font-[family-name:var(--font-orbitron)] font-bold hover:text-gray-300 transition-colors text-2xl sm:text-3xl lg:text-4xl tracking-tight"
           >
             FACEBOOK
           </a>
           <a 
-            href="#" 
+            href="https://www.youtube.com/@danielafanvi" 
             className="text-white font-[family-name:var(--font-orbitron)] font-bold hover:text-gray-300 transition-colors text-2xl sm:text-3xl lg:text-4xl tracking-tight"
           >
             YOUTUBE
           </a>
           <a 
-            href="#" 
+            href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=11u4kum" 
             className="text-white font-[family-name:var(--font-orbitron)] font-bold hover:text-gray-300 transition-colors text-2xl sm:text-3xl lg:text-4xl tracking-tight"
           >
             INSTAGRAM
@@ -38,7 +38,7 @@ const Footer = () => {
         {/* Contact Number */}
         <div className="text-center mb-6">
           <a 
-            href="tel:+1234567890" 
+            href="tel:+233249740999" 
             className="inline-flex items-center justify-center text-gray-300 hover:text-white transition-colors group"
           >
             <svg 
