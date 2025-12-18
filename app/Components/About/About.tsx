@@ -22,7 +22,7 @@ const About = () => {
   ]
 
   return (
-     <section id="about" className={` ${orbitron.variable} relative`}>
+     <section id="About" className={` ${orbitron.variable} relative`}>
   
       <div className="bg-black"> 
       
