@@ -45,12 +45,8 @@ const About = () => {
                 <h5 className="text-xl text-white font-light uppercase mb-6 font-[family-name:var(--font-orbitron)]">[ About ]</h5>
                 <h3 className="text-4xl text-white font-bold uppercase mb-6 font-[family-name:var(--font-orbitron)]">Apostle Daniel Afanvi</h3>
                 <h3 className="text-md text-white font-extralight mb-6">
-                     Rev. Daniel Afanvi is the founder of Christ Season Ministry
-                     based in Accra, Ghana. 
-                     Rev. Daniel Afanvi is the founder of Christ Season Ministry
-                     based in Accra, Ghana. 
-                     Rev. Daniel Afanvi is the founder of Christ Season Ministry
-                     based in Accra, Ghana. 
+                   Founded by Apostle Daniel Afanvi on September 7, 2025, Christ Season Ministry (CSM) is a prophetic ministry with a mission to spread the gospel and show God’s love worldwide, aiming to lift the 
+                   banner of Jesus Christ and make every home a place for Christ.
                 </h3>
                        <div className="mt-8">
                 <button className="w-full md:w-auto  bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105">
